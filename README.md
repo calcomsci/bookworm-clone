@@ -1,6 +1,6 @@
 View a live version of this app here:
 
-https://trusting-leakey-a21a93.netlify.app/
+https://bookworm-clone-hector.netlify.app/
 
 Software license for this software:
 
